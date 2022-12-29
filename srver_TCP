@@ -26,8 +26,6 @@ int main() {
         return -1;
     }
 
-
-
     SOCKET s, s_new;
     int from_len, a;
     char buf[BUF_SIZE] = { 0 };
