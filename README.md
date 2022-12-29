@@ -1,2 +1,2 @@
 # Network-Coding in C++
-Examples of working #client-server model# with protocols as: TCP, UDP, HTTP, Parallel TCP/IP Socket Server With Multithreading.
+Examples of working Client-Server model with protocols as: TCP, UDP, HTTP, Parallel TCP/IP Socket Server With Multithreading.
